@@ -1,7 +1,10 @@
-# react-form-validation - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# react-form-validation 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Preview
 ![preview][preview1-url]
+
+[![Follow on Instagram](https://img.shields.io/badge/Follow%20-on%20Instagram-green)](https://www.instagram.com/pajlotapps/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
